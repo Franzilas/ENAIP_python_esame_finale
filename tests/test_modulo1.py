@@ -1,5 +1,6 @@
 import pytest
 from progetto.modulo1 import funzione1, funzione2, funzione3, classeDaFinire
+#branchupdate
 
 def test_funzione1():
     # TODO Aggiungere 2 o più test per coprire funzione1
